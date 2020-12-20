@@ -24,3 +24,7 @@ Dans ce guide, nous vous montrons comment bien gérer vos comptes FTP au sein de
 - Vous devez cliquer sur un nom d’utilisateur que vous souhaitez modifier
 - Vous pouvez maintenant modifier le compte FTP à votre guise    
 
+![](https://gblobscdn.gitbook.com/assets%2F-MD7IL6lJMQPqWCnSSXr%2F-ME93Y3UWzY6V5rTFHhO%2F-ME93dwLMm1FnvVo2D7m%2F1-ftpmodifier.PNG?alt=media&token=583d082f-95ce-491d-b44d-45c551a3fe92)
+
+> Attention ! 
+Prenez bien note des modifications effectuées
