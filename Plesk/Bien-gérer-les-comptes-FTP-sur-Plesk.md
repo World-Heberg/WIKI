@@ -28,3 +28,12 @@ Dans ce guide, nous vous montrons comment bien gérer vos comptes FTP au sein de
 
 > Attention ! 
 Prenez bien note des modifications effectuées
+
+## Comment supprimer un compte FTP
+- Vous devez aller dans Site et Domaines au dessus à gauche
+- Vous devez cliquez sur Accès FTP
+- Cochez la case du  compte FTP que vous voulez supprimer et cliquez sur le bouton Supprimer. 
+
+![](https://gblobscdn.gitbook.com/assets%2F-MD7IL6lJMQPqWCnSSXr%2F-ME93Y3UWzY6V5rTFHhO%2F-ME93hkmFQwNJofV9YSn%2F1-ftpsuprimer.png?alt=media&token=20dbef51-4e97-4e3a-a958-b538814a8d8b)
+
+> Remarque : il est impossible de supprimer le compte FTP principal d’un abonnement.
